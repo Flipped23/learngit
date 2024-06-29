@@ -7,3 +7,5 @@ Creating a new branch is quick.
 =======
 >>>>>>> dev
 Creating a new branch is quick and simple.
+Git can merge branches.
+
